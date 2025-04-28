@@ -3,7 +3,7 @@
 
 ## Available Scripts:
 
-### `npm start`
+### `npm install`
  
 ### `npm start`
 
